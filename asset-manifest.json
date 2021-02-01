@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/akashpanchal.com/static/css/main.09656036.chunk.css",
-    "main.js": "/akashpanchal.com/static/js/main.c51db254.chunk.js",
-    "main.js.map": "/akashpanchal.com/static/js/main.c51db254.chunk.js.map",
+    "main.js": "/akashpanchal.com/static/js/main.e4aca5f7.chunk.js",
+    "main.js.map": "/akashpanchal.com/static/js/main.e4aca5f7.chunk.js.map",
     "runtime-main.js": "/akashpanchal.com/static/js/runtime-main.ce743e35.js",
     "runtime-main.js.map": "/akashpanchal.com/static/js/runtime-main.ce743e35.js.map",
     "static/js/2.5f008532.chunk.js": "/akashpanchal.com/static/js/2.5f008532.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.6191bfb7.chunk.js": "/akashpanchal.com/static/js/4.6191bfb7.chunk.js",
     "static/js/4.6191bfb7.chunk.js.map": "/akashpanchal.com/static/js/4.6191bfb7.chunk.js.map",
     "index.html": "/akashpanchal.com/index.html",
-    "precache-manifest.b9e7578ca3b3d0eae19fb9e74b2a74fb.js": "/akashpanchal.com/precache-manifest.b9e7578ca3b3d0eae19fb9e74b2a74fb.js",
+    "precache-manifest.34d2f394944ba866672daa79643fcf96.js": "/akashpanchal.com/precache-manifest.34d2f394944ba866672daa79643fcf96.js",
     "service-worker.js": "/akashpanchal.com/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/akashpanchal.com/static/css/3.00373544.chunk.css.map",
     "static/css/4.19dfc3d0.chunk.css.map": "/akashpanchal.com/static/css/4.19dfc3d0.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.ce743e35.js",
     "static/js/2.5f008532.chunk.js",
     "static/css/main.09656036.chunk.css",
-    "static/js/main.c51db254.chunk.js"
+    "static/js/main.e4aca5f7.chunk.js"
   ]
 }
