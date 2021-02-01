@@ -5,7 +5,7 @@
 import emoji from 'react-easy-emoji';
 
 const illustration = {
-  animated: false, // set to false to use static SVG
+  animated: true, // set to false to use static SVG
 };
 
 const greeting = {
@@ -139,7 +139,7 @@ const techStack = {
       progressPercentage: '40%',
     },
   ],
-  displayCodersrank: true, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -309,7 +309,7 @@ const talkSection = {
       event_url: 'https://www.facebook.com/events/2339906106275053/',
     },
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -322,7 +322,7 @@ const podcastSection = {
   podcast: [
     'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
-  display: false, // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
@@ -336,7 +336,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: 'twitter', //Replace "twitter" with your twitter username without @
-  display: false, // Set true to display this section, defaults to false
+  display: true, // Set true to display this section, defaults to false
 };
 
 export {
