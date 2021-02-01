@@ -121,6 +121,7 @@ const educationInfo = {
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
       ],
     },
+
     {
       schoolName: 'Stanford University',
       logo: require('./assets/images/stanfordLogo.png'),
