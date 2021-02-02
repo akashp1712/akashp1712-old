@@ -5,14 +5,14 @@
 import emoji from 'react-easy-emoji';
 
 const illustration = {
-  animated: true, // set to false to use static SVG
+  animated: false, // set to false to use static SVG
 };
 
 const greeting = {
-  username: 'Saad Pasta',
-  title: "Hi all, I'm Akash",
+  username: 'Akash Panchal',
+  title: "Hello World, I'm Akash",
   subTitle: emoji(
-    'A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.'
+    'A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool libraries and frameworks.'
   ),
   resumeLink:
     'https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing',
@@ -34,14 +34,19 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: 'What I do',
-  subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: 'I want to explore Cloud Tech Stack And awesome Python libraries.',
   skills: [
     emoji(
-      '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
+      '⚡ Develop highly scalable cloud application'
     ),
-    emoji('⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks'),
     emoji(
-      '⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean'
+      '⚡ Develope and Integrate Mobile SDKs for Android Apps'
+    ),
+    emoji(
+      '⚡ Applied Machine Learning and NLP problems'
+    ),
+      emoji(
+      '⚡ Large scale System Design'
     ),
   ],
 
@@ -50,57 +55,33 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: 'html-5',
-      fontAwesomeClassname: 'fab fa-html5',
+      skillName: 'python',
+      fontAwesomeClassname: 'fab fa-python',
     },
     {
-      skillName: 'css3',
-      fontAwesomeClassname: 'fab fa-css3-alt',
+      skillName: 'java',
+      fontAwesomeClassname: 'fab fa-java',
     },
     {
-      skillName: 'sass',
-      fontAwesomeClassname: 'fab fa-sass',
+      skillName: 'android',
+      fontAwesomeClassname: 'fab fa-android',
     },
     {
-      skillName: 'JavaScript',
-      fontAwesomeClassname: 'fab fa-js',
-    },
-    {
-      skillName: 'reactjs',
-      fontAwesomeClassname: 'fab fa-react',
-    },
-    {
-      skillName: 'nodejs',
-      fontAwesomeClassname: 'fab fa-node',
-    },
-    {
-      skillName: 'swift',
-      fontAwesomeClassname: 'fab fa-swift',
-    },
-    {
-      skillName: 'npm',
-      fontAwesomeClassname: 'fab fa-npm',
-    },
-    {
-      skillName: 'sql-database',
-      fontAwesomeClassname: 'fas fa-database',
+      skillName: 'docker',
+      fontAwesomeClassname: 'fab fa-docker',
     },
     {
       skillName: 'aws',
       fontAwesomeClassname: 'fab fa-aws',
     },
     {
-      skillName: 'firebase',
-      fontAwesomeClassname: 'fas fa-fire',
+      skillName: 'JavaScript',
+      fontAwesomeClassname: 'fab fa-js',
     },
     {
-      skillName: 'python',
-      fontAwesomeClassname: 'fab fa-python',
-    },
-    {
-      skillName: 'docker',
-      fontAwesomeClassname: 'fab fa-docker',
-    },
+      skillName: 'sql-database',
+      fontAwesomeClassname: 'fas fa-database',
+    }
   ],
   display: true, // Set false to hide this section, defaults to true
 };
@@ -111,25 +92,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: 'Harvard University',
+      schoolName: 'Nirma University',
       logo: require('./assets/images/harvardLogo.png'),
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
+      subHeader: 'MTech. in Computer Science',
+      duration: 'July 2014 - June 2016',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Undertaken Advanced Algorithms, Modern Database, Machine Learning and Paralle Programming as core subjects.',
+        'Worked as an Intern in Bluetooth Team at Broadcom Semiconductor',
       ],
     },
 
     {
-      schoolName: 'Stanford University',
+      schoolName: 'Gujarat Technological University',
       logo: require('./assets/images/stanfordLogo.png'),
-      subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'September 2013 - April 2017',
+      subHeader: 'Bachelor of Engineering in Computer Science',
+      duration: 'August 2009 - May 2012',
       desc:
-        'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolor sit amet, consectetur adipiscing elit'],
+        'Ranked top 10% in the class. Took courses about Software Engineering, Web Security, Operating Systems, Data Structure and Algorithms, Computer Networks, ...',
     },
   ],
 };
@@ -140,19 +119,27 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: 'Frontend/Design', //Insert stack or technology you have experience in
-      progressPercentage: '90%', //Insert relative proficiency in percentage
+      Stack: 'Algorithmic Solving ', //Insert stack or technology you have experience in
+      progressPercentage: '70%', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Backend',
-      progressPercentage: '70%',
+      progressPercentage: '80%',
     },
     {
-      Stack: 'Programming',
+      Stack: 'Machine Learning',
+      progressPercentage: '30%',
+    },
+    {
+      Stack: 'Android',
       progressPercentage: '60%',
     },
+    {
+      Stack: 'Frontend/Javascript',
+      progressPercentage: '40%',
+    },
   ],
-  displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -161,32 +148,44 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Software Engineer',
-      company: 'Facebook',
+      role: 'Software Developemt Engineer II',
+      company: 'McAfee',
       companylogo: require('./assets/images/facebookLogo.png'),
-      date: 'June 2018 – Present',
+      date: 'Jab 2019 – Present',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Software Engineer in Cloud and Android for the Secure Home Platform for the customer.',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Reduced the partner-specific changes by 50% by generalizing the custom changes in the core solution',
+        'Fixed the critical subscription failure cases that led to DDOS-like attack from the routers',
+        'Implemented scalable custom feature-set module to support different router models and versions',
+        'Decreased Database storage and Network calls up to 40% for a Router API by optimizing data flow design',
       ],
     },
     {
-      role: 'Front-End Developer',
-      company: 'Quora',
+      role: 'Software Development Engineer I',
+      company: 'McAfee',
       companylogo: require('./assets/images/quoraLogo.png'),
-      date: 'May 2017 – May 2018',
+      date: 'Oct 2017 – Dec 2018',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Androis Software Engineer in Safe Connect - A VPN Produce Development Team',
+      descBullets: [
+        'Created the VPN interfaces for the end-product (Android) to consume',
+        'Developed custom Network state-machine to support Auto-start VPN and Activity-log features',
+      ],
     },
     {
-      role: 'Software Engineer Intern',
-      company: 'Airbnb',
+      role: 'Software Development Engineer I',
+      company: 'McAfee',
       companylogo: require('./assets/images/airbnbLogo.png'),
       date: 'Jan 2015 – Sep 2015',
       desc:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        'Cloud developer for Mobile Apps scanner Team',
+      descBullets: [
+        'URLs rating aggregation for False-Positives and False-Negatives',
+        'Email reporting for cumulative download stats (different sources) from the service logs',
+        'Improved pipe-filter design to reduce the memory footprint of apk metadata processing',
+        'Increased the throughput of the app scanner by reducing repeat scanning of the Android Apps up to 5000 per day',
+      ],
     },
   ],
 };
@@ -209,26 +208,26 @@ const bigProjects = {
   projects: [
     {
       image: require('./assets/images/saayaHealthLogo.webp'),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Pythonizr",
+      projectDesc: "Pythonizr generates boilerplate code for the machine learning development.",
       footerLink: [
         {
           name: 'Visit Website',
           url:
-            'http://saayahealth.com/',
+            'https://pythonizr.com/',
         },
         //  you can add extra buttons here.
       ],
     },
     {
       image: require('./assets/images/nextuLogo.webp'),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Extractive Text Summarization",
+      projectDesc: "Github Repo: https://github.com/akashp1712/streamlit-text-summarization",
       footerLink: [
         {
           name: 'Visit Website',
           url:
-            'http://nextu.se/',
+            'https://share.streamlit.io/akashp1712/streamlit-text-summarization/main/app.py',
         },
       ],
     },
@@ -246,7 +245,7 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: 'Google Code-In Finalist',
+      title: 'System Expert',
       subtitle:
         'First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.',
       image: require('./assets/images/codeInLogo.webp'),
@@ -254,44 +253,8 @@ const achievementSection = {
         {
           name: 'Certification',
           url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing',
-        },
-        {
-          name: 'Award Letter',
-          url:
-            'https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing',
-        },
-        {
-          name: 'Google Code-in Blog',
-          url:
-            'https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html',
-        },
-      ],
-    },
-    {
-      title: 'Google Assistant Action',
-      subtitle:
-        'Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.',
-      image: require('./assets/images/googleAssistantLogo.webp'),
-      footerLink: [
-        {
-          name: 'View Google Assistant Action',
-          url:
-            'https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en',
-        },
-      ],
-    },
-
-    {
-      title: 'PWA Web App Developer',
-      subtitle: 'Completed Certifcation from SMIT for PWA Web App Development',
-      image: require('./assets/images/pwaLogo.webp'),
-      footerLink: [
-        { name: 'Certification', url: '' },
-        {
-          name: 'Final Project',
-          url: 'https://pakistan-olx-1.firebaseapp.com/',
-        },
+            'https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-3a9c5d6287',
+        }
       ],
     },
   ],
@@ -308,16 +271,23 @@ const blogSection = {
   blogs: [
     {
       url:
-        'https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae',
-      title: 'Win a Google Assistant Tshirt and $200 in Google Cloud Credits',
+        'https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65',
+      title: 'Text summarization in 5 steps using NLTK',
       description:
-        'Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?',
+        'This article explains the implementation of Text Summarizer using Python. Very easy to understand and implement.',
     },
     {
-      url: 'https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e',
-      title: 'Why REACT is The Best?',
+      url:
+        'https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3',
+      title: 'https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3',
       description:
-        'React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.',
+        'I’ve explained the implementation of TF-IDF algorithm for the single document-multiple paragraphs.',
+    },
+    {
+      url: 'https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a',
+      title: 'Python for JAVA Developers: CheatSheet',
+      description:
+        'A handy cheat-sheet for Java developers who are learning Python',
     },
   ],
   display: true, // Set false to hide this section, defaults to true
@@ -339,7 +309,7 @@ const talkSection = {
       event_url: 'https://www.facebook.com/events/2339906106275053/',
     },
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -352,7 +322,7 @@ const podcastSection = {
   podcast: [
     'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
   ],
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
@@ -366,7 +336,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: 'twitter', //Replace "twitter" with your twitter username without @
-  display: true, // Set true to display this section, defaults to false
+  display: false, // Set true to display this section, defaults to false
 };
 
 export {
