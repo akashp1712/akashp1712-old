@@ -84,15 +84,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: 'GitHub',
-      fontAwesomeClassname: 'fas fa-github',
+      fontAwesomeClassname: 'fab fa-github',
     },
     {
       skillName: 'WordPress',
-      fontAwesomeClassname: 'fas fa-wordpress',
+      fontAwesomeClassname: 'fab fa-wordpress',
     },
     {
       skillName: 'Medium',
-      fontAwesomeClassname: 'fas fa-medium',
+      fontAwesomeClassname: 'fab fa-medium',
     }
   ],
   display: true, // Set false to hide this section, defaults to true
