@@ -93,7 +93,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: 'Nirma University',
-      logo: require('./assets/images/harvardLogo.png'),
+      logo: require('./assets/images/nirma-university-logo.png'),
       subHeader: 'MTech. in Computer Science',
       duration: 'July 2014 - June 2016',
       descBullets: [
@@ -104,7 +104,7 @@ const educationInfo = {
 
     {
       schoolName: 'Gujarat Technological University',
-      logo: require('./assets/images/stanfordLogo.png'),
+      logo: require('./assets/images/gtu-logo.png'),
       subHeader: 'Bachelor of Engineering in Computer Science',
       duration: 'August 2009 - May 2012',
       desc:
@@ -120,19 +120,19 @@ const techStack = {
   experience: [
     {
       Stack: 'Algorithmic Solving ', //Insert stack or technology you have experience in
-      progressPercentage: '70%', //Insert relative proficiency in percentage
+      progressPercentage: '80%', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Backend',
-      progressPercentage: '80%',
+      progressPercentage: '85%',
     },
     {
       Stack: 'Machine Learning',
-      progressPercentage: '30%',
+      progressPercentage: '35%',
     },
     {
       Stack: 'Android',
-      progressPercentage: '60%',
+      progressPercentage: '65%',
     },
     {
       Stack: 'Frontend/Javascript',
@@ -150,7 +150,7 @@ const workExperiences = {
     {
       role: 'Software Developemt Engineer II',
       company: 'McAfee',
-      companylogo: require('./assets/images/facebookLogo.png'),
+      companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Jab 2019 – Present',
       desc:
         'Software Engineer in Cloud and Android for the Secure Home Platform for the customer.',
@@ -164,7 +164,7 @@ const workExperiences = {
     {
       role: 'Software Development Engineer I',
       company: 'McAfee',
-      companylogo: require('./assets/images/quoraLogo.png'),
+      companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Oct 2017 – Dec 2018',
       desc:
         'Androis Software Engineer in Safe Connect - A VPN Produce Development Team',
@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: 'Software Development Engineer I',
       company: 'McAfee',
-      companylogo: require('./assets/images/airbnbLogo.png'),
+      companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Jan 2015 – Sep 2015',
       desc:
         'Cloud developer for Mobile Apps scanner Team',
@@ -247,8 +247,8 @@ const achievementSection = {
     {
       title: 'System Expert',
       subtitle:
-        'First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.',
-      image: require('./assets/images/codeInLogo.webp'),
+        'For passing the systems design assessment on AlgoExpert.io',
+      image: require('./assets/images/systemexpert-certi.png'),
       footerLink: [
         {
           name: 'Certification',
@@ -264,24 +264,34 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: 'Blogs',
+  title: 'Blogs and Articles on Medium',
   subtitle:
     'With Love for Developing cool stuff, I love to write and teach others what I have learnt.',
 
   blogs: [
     {
-      url:
-        'https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65',
+      url: 'https://becominghuman.ai/text-summarization-in-5-steps-using-nltk-65b21e352b65',
       title: 'Text summarization in 5 steps using NLTK',
       description:
         'This article explains the implementation of Text Summarizer using Python. Very easy to understand and implement.',
     },
     {
-      url:
-        'https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3',
-      title: 'https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3',
+      url: 'https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3',
+      title: 'Text Summarization using NLTK: TF-IDF Algorithm',
       description:
         'I’ve explained the implementation of TF-IDF algorithm for the single document-multiple paragraphs.',
+    },
+    {
+      url: 'https://towardsdatascience.com/improving-accuracy-on-mnist-using-data-augmentation-b5c38eb5a903',
+      title: 'Improving Classification accuracy on MNIST using Data Augmentation',
+      description:
+        'An easy way to grow the training data set for Accuracy,
+    },
+    {
+      url: 'https://towardsdatascience.com/handling-the-missing-values-in-data-the-easy-way-9ea5983f8ba4',
+      title: 'Handling the missing values in Data ft. SciKit Imputer',
+      description:
+        'Different ways of handling the missing/None values in Datasets while training ML model',
     },
     {
       url: 'https://medium.com/nestedif/cheatsheet-python-for-java-developers-98f75c94a1a',
@@ -327,8 +337,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
-  subtitle:
-    'Discuss a project or just want to say hi? My Inbox is open for all.',
+  subtitle: 'Discuss about projects, spacetime or masala chai Or just say hi. My Inbox is open for all.',
   emailAddress: 'akashp1712@gmail.com',
 };
 
