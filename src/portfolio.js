@@ -10,7 +10,7 @@ const illustration = {
 
 const greeting = {
   username: 'Akash Panchal',
-  title: "Hello World, I'm Akash",
+  title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
     'A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool libraries and frameworks.'
   ),
@@ -40,13 +40,13 @@ const skillsSection = {
       '⚡ Develop highly scalable cloud application'
     ),
     emoji(
-      '⚡ Develope and Integrate Mobile SDKs for Android Apps'
+      '⚡ Develop and Integrate Mobile SDKs for Android Apps'
     ),
     emoji(
-      '⚡ Applied Machine Learning and NLP problems'
+      '⚡ Experiment Applied Machine Learning and NLP problems'
     ),
       emoji(
-      '⚡ Large scale System Design'
+      '⚡ Learn to design Large scale System for Distributed Clouud Computing'
     ),
   ],
 
@@ -85,6 +85,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: 'GitHub',
       fontAwesomeClassname: 'fab fa-github',
+    },
+    {
+      skillName: 'Linux',
+      fontAwesomeClassname: 'fab fa-linux',
     },
     {
       skillName: 'WordPress',
