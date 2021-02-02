@@ -207,7 +207,7 @@ const bigProjects = {
   subtitle: 'SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH',
   projects: [
     {
-      image: require('./assets/images/saayaHealthLogo.webp'),
+      image: require('./assets/images/pythonizr-screen.png'),
       projectName: "Pythonizr",
       projectDesc: "Pythonizr generates boilerplate code for the machine learning development.",
       footerLink: [
@@ -220,7 +220,7 @@ const bigProjects = {
       ],
     },
     {
-      image: require('./assets/images/nextuLogo.webp'),
+      image: require('./assets/images/streamlit-screen.png'),
       projectName: "Extractive Text Summarization",
       projectDesc: "Github Repo: https://github.com/akashp1712/streamlit-text-summarization",
       footerLink: [
@@ -285,7 +285,7 @@ const blogSection = {
       url: 'https://towardsdatascience.com/improving-accuracy-on-mnist-using-data-augmentation-b5c38eb5a903',
       title: 'Improving Classification accuracy on MNIST using Data Augmentation',
       description:
-        'An easy way to grow the training data set for Accuracy,
+        'An easy way to grow the training data set for Accuracy',
     },
     {
       url: 'https://towardsdatascience.com/handling-the-missing-values-in-data-the-easy-way-9ea5983f8ba4',
@@ -298,7 +298,7 @@ const blogSection = {
       title: 'Python for JAVA Developers: CheatSheet',
       description:
         'A handy cheat-sheet for Java developers who are learning Python',
-    },
+    }
   ],
   display: true, // Set false to hide this section, defaults to true
 };
