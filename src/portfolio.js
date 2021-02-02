@@ -15,7 +15,7 @@ const greeting = {
     'A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool libraries and frameworks.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing',
+    'https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf',
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
@@ -34,7 +34,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: 'What I do',
-  subTitle: 'I want to explore Cloud Tech Stack And awesome Python libraries.',
+  subTitle: 'I like to explore Cloud Tech Stack, Machine Learning and Python developemnt libraries and tools.',
   skills: [
     emoji(
       '⚡ Develop highly scalable cloud application'
@@ -81,6 +81,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: 'sql-database',
       fontAwesomeClassname: 'fas fa-database',
+    },
+    {
+      skillName: 'GitHub',
+      fontAwesomeClassname: 'fas fa-github',
+    },
+    {
+      skillName: 'WordPress',
+      fontAwesomeClassname: 'fas fa-wordpress',
+    },
+    {
+      skillName: 'Medium',
+      fontAwesomeClassname: 'fas fa-medium',
     }
   ],
   display: true, // Set false to hide this section, defaults to true
@@ -203,8 +215,8 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: 'Big Projects',
-  subtitle: 'SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH',
+  title: 'Side Projects',
+  subtitle: 'Projects which allowed me to be creative and explore-learn technologies outside my confirt zone. So Proud of them.',
   projects: [
     {
       image: require('./assets/images/pythonizr-screen.png'),
@@ -241,7 +253,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji('Achievements And Certifications 🏆 '),
   subtitle:
-    'Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !',
+    '',
 
   achievementsCards: [
     {
