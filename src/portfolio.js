@@ -164,7 +164,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Software Developemt Engineer II',
+      role: 'SDE II - Secure Home Platform Partner Team',
       company: 'McAfee',
       companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Jab 2019 – Present',
@@ -178,7 +178,7 @@ const workExperiences = {
       ],
     },
     {
-      role: 'Software Development Engineer I',
+      role: 'SDE I - SafeConnect (VPN Security App) Development Team ',
       company: 'McAfee',
       companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Oct 2017 – Dec 2018',
@@ -190,7 +190,7 @@ const workExperiences = {
       ],
     },
     {
-      role: 'Software Development Engineer I',
+      role: 'SDE I - Apps Scanner Team',
       company: 'McAfee',
       companylogo: require('./assets/images/mcafee-logo.png'),
       date: 'Jan 2015 – Sep 2015',
