@@ -253,7 +253,7 @@ const bigProjects = {
 
 const codersRank = {
   userName: 'akashp1712', // Change to your codersRank username to display widgets from codersRank
-  githubActivityChart: true, // Set true or false to show Github Activity Chart
+  githubActivity: true, // Set true or false to show Github Activity Chart
   display: true, // Set false to hide this section, defaults to true
 };
 
