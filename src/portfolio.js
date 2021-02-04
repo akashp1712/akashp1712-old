@@ -155,7 +155,7 @@ const techStack = {
       progressPercentage: '40%',
     },
   ],
-  displayCodersrank: true, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -213,7 +213,7 @@ const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: 'akashp1712', // Change to your github username to view your profile in Contact Section.
   showGithubProfile: 'true', // Set true or false to show Contact profile using Github, defaults to true
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -248,6 +248,12 @@ const bigProjects = {
       ],
     },
   ],
+  display: true, // Set false to hide this section, defaults to true
+};
+
+const codersRank = {
+  userName: 'akashp1712', // Change to your codersRank username to display widgets from codersRank
+  githubActivityChart: true, // Set true or false to show Github Activity Chart
   display: true, // Set false to hide this section, defaults to true
 };
 
@@ -360,7 +366,7 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: 'twitter', //Replace "twitter" with your twitter username without @
+  userName: 'akashp1712', //Replace "twitter" with your twitter username without @
   display: false, // Set true to display this section, defaults to false
 };
 
@@ -374,6 +380,7 @@ export {
   workExperiences,
   openSource,
   bigProjects,
+  codersRank,
   achievementSection,
   blogSection,
   talkSection,
