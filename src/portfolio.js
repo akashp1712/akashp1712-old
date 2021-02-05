@@ -193,7 +193,7 @@ const workExperiences = {
       role: 'SDE I - Apps Scanner Team',
       company: 'McAfee',
       companylogo: require('./assets/images/mcafee-logo.png'),
-      date: 'Jan 2015 – Sep 2015',
+      date: 'June 2016 – Sep 2017',
       desc:
         'Cloud developer for Mobile Apps scanner Team',
       descBullets: [
@@ -251,7 +251,7 @@ const bigProjects = {
   display: true, // Set false to hide this section, defaults to true
 };
 
-const codersRank = {
+const githubActivity = {
   userName: 'akashp1712', // Change to your codersRank username to display widgets from codersRank
   display: true, // Set false to hide this section, defaults to true
 };
@@ -380,7 +380,6 @@ export {
   openSource,
   githubActivity,
   bigProjects,
-  codersRank,
   achievementSection,
   blogSection,
   talkSection,
