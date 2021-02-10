@@ -2,7 +2,7 @@
 
 // Summary And Greeting Section
 
-import emoji from 'react-easy-emoji';
+import emoji from "react-easy-emoji";
 
 const illustration = {
   animated: false, // set to false to use static SVG
@@ -299,7 +299,7 @@ const achievementSection = {
       image: require('./assets/images/systemexpert-certi.png'),
       footerLink: [
         {
-          name: 'Certification',
+          name: "Certification",
           url:
             'https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-3a9c5d6287',
         }
@@ -312,7 +312,7 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: 'Blogs and Articles on Medium',
+  title: 'Articles on Medium',
   subtitle:
     'With Love for Developing cool stuff, I love to write and teach others what I have learnt.',
 
@@ -354,18 +354,18 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: 'TALKS',
+  title: "TALKS",
   subtitle: emoji(
-    'I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅'
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
   ),
 
   talks: [
     {
-      title: 'Build Actions For Google Assistant',
-      subtitle: 'Codelab at GDG DevFest Karachi 2019',
-      slides_url: 'https://bit.ly/saadpasta-slides',
-      event_url: 'https://www.facebook.com/events/2339906106275053/',
-    },
+      title: "Build Actions For Google Assistant",
+      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://www.facebook.com/events/2339906106275053/"
+    }
   ],
   display: false, // Set false to hide this section, defaults to true
 };
@@ -373,12 +373,12 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji('Podcast 🎙️'),
-  subtitle: 'I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY',
+  title: emoji("Podcast 🎙️"),
+  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    'https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo',
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
   display: false, // Set false to hide this section, defaults to true
 };
