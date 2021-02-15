@@ -122,7 +122,7 @@ const educationInfo = {
       schoolName: 'Gujarat Technological University',
       logo: require('./assets/images/gtu-logo.png'),
       subHeader: 'Bachelor of Engineering in Computer Science',
-      duration: 'August 2009 - May 2012',
+      duration: 'August 2009 - May 2013',
       desc:
         'Ranked top 10% in the class. Took courses about Software Engineering, Web Security, Operating Systems, Data Structure and Algorithms, Computer Networks, ...',
     },
@@ -135,24 +135,24 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: 'Algorithmic Solving ', //Insert stack or technology you have experience in
-      progressPercentage: '80%', //Insert relative proficiency in percentage
-    },
-    {
       Stack: 'Backend',
       progressPercentage: '85%',
     },
     {
-      Stack: 'Machine Learning',
-      progressPercentage: '35%',
+      Stack: 'Algorithmic Solving ', //Insert stack or technology you have experience in
+      progressPercentage: '80%', //Insert relative proficiency in percentage
     },
     {
       Stack: 'Android',
       progressPercentage: '65%',
     },
     {
+      Stack: 'Machine Learning',
+      progressPercentage: '35%',
+    },
+    {
       Stack: 'Frontend/Javascript',
-      progressPercentage: '40%',
+      progressPercentage: '35%',
     },
   ],
   displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
