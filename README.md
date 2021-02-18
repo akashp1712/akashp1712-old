@@ -1,4 +1,4 @@
-# Akash Panchal Software Developer Folio
+# Akash Panchal Software Developer Folio - [akashpanchal.com](https://akashpanchal.com)
 
 <p align="center">
   <kbd>
