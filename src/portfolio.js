@@ -27,6 +27,7 @@ const socialMediaLinks = {
   gmail: 'akashp1712@gmail.com',
   medium: 'https://medium.com/@akashp1712',
   // Instagram and Twitter are also supported in the links!
+  twitter: 'https://twitter.com/akashp1712',
   display: true, // Set true to display this section, defaults to false
 };
 
@@ -366,7 +367,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: 'akashp1712', //Replace "twitter" with your twitter username without @
-  display: false, // Set true to display this section, defaults to false
+  display: true, // Set true to display this section, defaults to false
 };
 
 export {
