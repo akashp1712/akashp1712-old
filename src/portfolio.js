@@ -224,7 +224,7 @@ const bigProjects = {
   subtitle: 'Projects which allowed me to be creative and explore-learn technologies outside my confirt zone. So Proud of them.',
   projects: [
     {
-      image: require('./assets/images/pythonizr-screen.png'),
+      image: require('./assets/images/pythonizr-scroll.gif'),
       projectName: "Pythonizr",
       projectDesc: "Pythonizr generates boilerplate code for the machine learning development.",
       footerLink: [
