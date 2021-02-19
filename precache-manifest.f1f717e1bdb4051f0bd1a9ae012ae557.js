@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53c9732108cafa5419f83a91b3d06e8a",
+    "revision": "85db4b6f4ae174fb26710e58f6249c42",
     "url": "./index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/4.19dfc3d0.chunk.css"
   },
   {
-    "revision": "28ab3cacf9fed79ec9be",
+    "revision": "249e9ba6f65ca585e194",
     "url": "./static/css/main.7f6bb885.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/4.6191bfb7.chunk.js"
   },
   {
-    "revision": "28ab3cacf9fed79ec9be",
-    "url": "./static/js/main.61ac5090.chunk.js"
+    "revision": "249e9ba6f65ca585e194",
+    "url": "./static/js/main.fa693578.chunk.js"
   },
   {
     "revision": "977b7d9be5d65dd70e56",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/nirma-university-logo.451cc7cd.png"
   },
   {
-    "revision": "b5f4233151d48d3637696b8666069073",
-    "url": "./static/media/pythonizr-screen.b5f42331.png"
+    "revision": "a572671e84d6f07dd4175f7d73d6d98e",
+    "url": "./static/media/pythonizr-scroll.a572671e.gif"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
