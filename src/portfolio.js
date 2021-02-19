@@ -12,7 +12,7 @@ const greeting = {
   username: 'Akash Panchal',
   title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
-    'A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool libraries and frameworks.'
+    'A passionate Software Engineer with experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool projects for Machine Learning and NLP.'
   ),
   resumeLink:
     'https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf',
@@ -92,6 +92,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: 'fab fa-linux',
     },
     {
+      skillName: 'Ubuntu',
+      fontAwesomeClassname: 'fab fa-ubuntu',
+    },
+    {
       skillName: 'WordPress',
       fontAwesomeClassname: 'fab fa-wordpress',
     },
@@ -136,11 +140,11 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: 'Backend',
+      Stack: 'Problem Solving',
       progressPercentage: '85%',
     },
     {
-      Stack: 'Algorithmic Solving ', //Insert stack or technology you have experience in
+      Stack: 'Backend/Cloud computing ', //Insert stack or technology you have experience in
       progressPercentage: '80%', //Insert relative proficiency in percentage
     },
     {
@@ -149,6 +153,10 @@ const techStack = {
     },
     {
       Stack: 'Machine Learning',
+      progressPercentage: '40%',
+    },
+    {
+      Stack: 'Natural Language Processing',
       progressPercentage: '35%',
     },
     {
@@ -245,6 +253,18 @@ const bigProjects = {
           name: 'Visit Website',
           url:
             'https://share.streamlit.io/akashp1712/streamlit-text-summarization/main/app.py',
+        },
+      ],
+    },
+    {
+      image: require('./assets/images/summarize-webpage.png'),
+      projectName: "Summarize Webpage",
+      projectDesc: "A Flask application that extract and summarize webpage using Natural Language Processing.",
+      footerLink: [
+        {
+          name: 'Visit Repo on Github ',
+          url:
+            'https://github.com/akashp1712/summarize-webpage',
         },
       ],
     },
