@@ -49,6 +49,12 @@ const skillsSection = {
       emoji(
       '⚡ Learn to design Large scale System for Distributed Clouud Computing'
     ),
+      emoji(
+      '⚡ Bootstrapping ideas using web technologies'
+    ),
+      emoji(
+      '⚡ Writing Articles on Medium for knowledge sharing'
+    ),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
