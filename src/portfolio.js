@@ -386,7 +386,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji('Contact Me ☎️'),
   subtitle: 'Discuss about projects, spacetime or masala chai Or just say hi. My Inbox is open for all.',
-  emailAddress: 'akashp1712@gmail.com',
+  email_address: 'akashp1712@gmail.com',
 };
 
 // Twitter Section
