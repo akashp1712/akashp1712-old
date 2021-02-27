@@ -3,19 +3,19 @@
   height: auto;
   width: 420px;
 }
-.card-title {
+.book-card-title {
   color: #000000;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 24px;
   font-weight: 700;
   margin: 15px 0 0 0;
 }
-.card-subtitle {
+.book-card-subtitle {
   color: #666666;
-  font-size: 17px;
+  font-size: 14px;
   line-height: 1.5rem;
 }
-.certificate-card {
+.book-card {
   background-color: rgb(255, 255, 255);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 1.5rem;
@@ -25,33 +25,33 @@
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
-.certificate-detail-div {
+.book-detail-div {
   text-align: center;
 }
-.certificate-card:hover {
+.book-card:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
 }
-.dark-mode.certificate-card:hover {
+.dark-mode.book-card:hover {
   box-shadow: rgba(255, 255, 255, 0.2) 0px 20px 30px -10px;
 }
-.certificate-image-div {
+.book-image-div {
   position: relative;
   height: 250px;
   overflow: hidden;
   text-align: center;
 }
-.achievement-cards-div {
+.book-cards-div {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1rem 1rem;
 }
-.certificate-card-footer {
+.book-card-footer {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
 }
-.certificate-card-footer span.certificate-tag {
+.book-card-footer span.book-tag {
   background: #55198b;
   color: #f5f2f4;
   vertical-align: middle;
@@ -68,6 +68,6 @@
   cursor: pointer;
   transition: 0.2s ease-in;
 }
-span.certificate-tag:hover {
+span.book-tag:hover {
   background: #8c43ce;
 }
