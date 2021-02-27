@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66c104de3b5b04df9b786fc69a9774fe",
+    "revision": "6112e47e946c4aba22c6954eb9ff2350",
     "url": "./index.html"
   },
   {
-    "revision": "139c3400c0ab88d76c4b",
+    "revision": "bfd827262044aab66eb6",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "58d8ed900c9cc79f4b45",
+    "revision": "d83b47bbda2dae685141",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "0999ed31d338244df8b5",
-    "url": "./static/css/main.051e2ff7.chunk.css"
+    "revision": "093795a00832ebf0f4e2",
+    "url": "./static/css/main.5702606b.chunk.css"
   },
   {
-    "revision": "d0068c73372ac5f51968",
-    "url": "./static/js/2.314fd127.chunk.js"
+    "revision": "83cedd588b9192f67307",
+    "url": "./static/js/2.8ae05ad7.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.314fd127.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.8ae05ad7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "139c3400c0ab88d76c4b",
-    "url": "./static/js/3.69b2e87e.chunk.js"
+    "revision": "bfd827262044aab66eb6",
+    "url": "./static/js/3.d678297e.chunk.js"
   },
   {
-    "revision": "58d8ed900c9cc79f4b45",
-    "url": "./static/js/4.c2d12205.chunk.js"
+    "revision": "d83b47bbda2dae685141",
+    "url": "./static/js/4.79809787.chunk.js"
   },
   {
-    "revision": "0999ed31d338244df8b5",
-    "url": "./static/js/main.ecee9a5d.chunk.js"
+    "revision": "093795a00832ebf0f4e2",
+    "url": "./static/js/main.c62f63b9.chunk.js"
   },
   {
-    "revision": "77bee6405c8d31eddf9f",
-    "url": "./static/js/runtime-main.3bac94ac.js"
+    "revision": "b732496a2bce04d60876",
+    "url": "./static/js/runtime-main.a6d621d3.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,16 +48,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "bdc7510487c9d8bc2bed50fc9ebed1ce",
+    "url": "./static/media/askgaryvee.bdc75104.png"
+  },
+  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "./static/media/contactMailDark.51cf7192.svg"
+  },
+  {
+    "revision": "f66d199adb491ba1911b87c22d055554",
+    "url": "./static/media/ddia.f66d199a.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "./static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "1eb070b85a7f9198289205fea1e98bd9",
+    "url": "./static/media/elon-musk.1eb070b8.png"
+  },
+  {
     "revision": "dea65318b80f4d76cf754379aa7507ee",
     "url": "./static/media/gtu-logo.dea65318.png"
+  },
+  {
+    "revision": "30251ea87cd95e8756af6fd9965fb375",
+    "url": "./static/media/homl.30251ea8.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
