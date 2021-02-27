@@ -385,14 +385,15 @@ const contactInfo = {
   email_address: "akashp1712@gmail.com"
 };
 
-
 const booksSection = {
   title: emoji("Books I Read"),
-  subtitle: "I love to read books. I still purhcase the physical copies And I use a pencil to highlight!",
+  subtitle:
+    "I love to read books. I still purhcase the physical copies And I use a pencil to highlight!",
   booksCards: [
     {
       title: "Designing Data-Intensive Applications",
-      subtitle: "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+      subtitle:
+        "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
       image: require("./assets/images/ddia.png"),
       footerLink: [
         {
@@ -408,13 +409,15 @@ const booksSection = {
       footerLink: [
         {
           name: "Know More!",
-          url: "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
+          url:
+            "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
         }
       ]
     },
     {
       title: "#AskGaryVee",
-      subtitle: "One entrepreneur's take on leadership, social media, and self-awareness",
+      subtitle:
+        "One entrepreneur's take on leadership, social media, and self-awareness",
       image: require("./assets/images/askgaryvee.png"),
       footerLink: [
         {
@@ -430,14 +433,14 @@ const booksSection = {
       footerLink: [
         {
           name: "Know More!",
-          url: "https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future"
+          url:
+            "https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future"
         }
       ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
 
 // Twitter Section
 const twitterDetails = {
@@ -462,5 +465,5 @@ export {
   podcastSection,
   booksSection,
   twitterDetails,
-  contactInfo,
+  contactInfo
 };

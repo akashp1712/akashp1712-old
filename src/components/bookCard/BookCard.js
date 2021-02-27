@@ -13,10 +13,16 @@ export default function BookCard({cardInfo, isDark}) {
         <img src={cardInfo.image} alt="PWA" className="card-image"></img>
       </div>
       <div className="book-detail-div">
-        <h5 className={isDark ? "dark-mode book-card-title" : "book-card-title"}>
+        <h5
+          className={isDark ? "dark-mode book-card-title" : "book-card-title"}
+        >
           {cardInfo.title}
         </h5>
-        <p className={isDark ? "dark-mode book-card-subtitle" : "book-card-subtitle"}>
+        <p
+          className={
+            isDark ? "dark-mode book-card-subtitle" : "book-card-subtitle"
+          }
+        >
           {cardInfo.description}
         </p>
       </div>
@@ -25,9 +31,7 @@ export default function BookCard({cardInfo, isDark}) {
           return (
             <span
               key={i}
-              className={
-                isDark ? "dark-mode book-tag" : "book-tag"
-              }
+              className={isDark ? "dark-mode book-tag" : "book-tag"}
               onClick={() => openUrlInNewTab(v.url)}
             >
               {v.name}

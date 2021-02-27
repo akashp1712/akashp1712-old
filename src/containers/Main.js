@@ -7,7 +7,7 @@ import WorkExperience from "./workExperience/WorkExperience";
 import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
-import Books from "./books/Books"
+import Books from "./books/Books";
 import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
