@@ -391,52 +391,31 @@ const booksSection = {
     "I love to read books. I still purhcase the physical copies And I use a pencil to highlight!",
   booksCards: [
     {
+      title: "Microservices from NGINX",
+      subtitle: "From Design to Deployment",
+      image: require("./assets/images/microservices-nginx.jpg")
+    },
+    {
       title: "Designing Data-Intensive Applications",
       subtitle:
         "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
-      image: require("./assets/images/ddia.png"),
-      footerLink: [
-        {
-          name: "Know More!",
-          url: "https://dataintensive.net/"
-        }
-      ]
+      image: require("./assets/images/ddia.png")
     },
     {
       title: "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow",
       subtitle: "Concepts, Tools, and Techniques to Build Intelligent Systems",
-      image: require("./assets/images/homl.jpg"),
-      footerLink: [
-        {
-          name: "Know More!",
-          url:
-            "https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/"
-        }
-      ]
+      image: require("./assets/images/homl.jpg")
     },
     {
       title: "#AskGaryVee",
       subtitle:
         "One entrepreneur's take on leadership, social media, and self-awareness",
-      image: require("./assets/images/askgaryvee.png"),
-      footerLink: [
-        {
-          name: "Know More!",
-          url: "https://www.garyvaynerchuk.com/books/"
-        }
-      ]
+      image: require("./assets/images/askgaryvee.png")
     },
     {
       title: "Elon Musk",
       subtitle: "Tesla, SpaceX, and the Quest for a Fantastic Future",
-      image: require("./assets/images/elon-musk.png"),
-      footerLink: [
-        {
-          name: "Know More!",
-          url:
-            "https://en.wikipedia.org/wiki/Elon_Musk:_Tesla,_SpaceX,_and_the_Quest_for_a_Fantastic_Future"
-        }
-      ]
+      image: require("./assets/images/elon-musk.png")
     }
   ],
   display: true // Set false to hide this section, defaults to true

@@ -42,8 +42,7 @@ export default function Book() {
                   cardInfo={{
                     title: card.title,
                     description: card.subtitle,
-                    image: card.image,
-                    footer: card.footerLink
+                    image: card.image
                   }}
                 />
               );

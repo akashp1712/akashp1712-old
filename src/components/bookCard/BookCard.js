@@ -26,19 +26,6 @@ export default function BookCard({cardInfo, isDark}) {
           {cardInfo.description}
         </p>
       </div>
-      <div className="book-card-footer">
-        {cardInfo.footer.map((v, i) => {
-          return (
-            <span
-              key={i}
-              className={isDark ? "dark-mode book-tag" : "book-tag"}
-              onClick={() => openUrlInNewTab(v.url)}
-            >
-              {v.name}
-            </span>
-          );
-        })}
-      </div>
     </div>
   );
 }

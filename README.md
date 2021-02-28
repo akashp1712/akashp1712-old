@@ -61,3 +61,5 @@
 [medium]: https://medium.com/@akashp1712
 [OrangeCasidy]: https://twitter.com/orangecassidy
 
+Self Note: Run prettier before pushing to git
+>prettier -c "./**/*.{js,css,json}"
