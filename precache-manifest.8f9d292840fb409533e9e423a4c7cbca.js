@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6112e47e946c4aba22c6954eb9ff2350",
+    "revision": "b77527e784c02fef06111065650087f3",
     "url": "./index.html"
   },
   {
-    "revision": "bfd827262044aab66eb6",
+    "revision": "827deb29215bad8643f7",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "d83b47bbda2dae685141",
+    "revision": "c4a5981cb971d98f7b71",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "093795a00832ebf0f4e2",
+    "revision": "c7c954ef888428fa6390",
     "url": "./static/css/main.5702606b.chunk.css"
   },
   {
-    "revision": "83cedd588b9192f67307",
-    "url": "./static/js/2.8ae05ad7.chunk.js"
+    "revision": "d7bc4f39ca1b59825ab6",
+    "url": "./static/js/2.fd49a206.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.8ae05ad7.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.fd49a206.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfd827262044aab66eb6",
-    "url": "./static/js/3.d678297e.chunk.js"
+    "revision": "827deb29215bad8643f7",
+    "url": "./static/js/3.257f7178.chunk.js"
   },
   {
-    "revision": "d83b47bbda2dae685141",
-    "url": "./static/js/4.79809787.chunk.js"
+    "revision": "c4a5981cb971d98f7b71",
+    "url": "./static/js/4.2fa00fbe.chunk.js"
   },
   {
-    "revision": "093795a00832ebf0f4e2",
-    "url": "./static/js/main.c62f63b9.chunk.js"
+    "revision": "c7c954ef888428fa6390",
+    "url": "./static/js/main.83b52392.chunk.js"
   },
   {
-    "revision": "b732496a2bce04d60876",
-    "url": "./static/js/runtime-main.a6d621d3.js"
+    "revision": "82b535860978b2488fc3",
+    "url": "./static/js/runtime-main.88f65941.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29da6d42417cecde70c3bf783d8ee62d",
     "url": "./static/media/mcafee-logo.29da6d42.png"
+  },
+  {
+    "revision": "c9139976914b42d94346e7c48188cd60",
+    "url": "./static/media/microservices-nginx.c9139976.jpg"
   },
   {
     "revision": "451cc7cd61a8a4f277c3531c401ce22c",
