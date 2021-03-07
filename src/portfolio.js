@@ -382,7 +382,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss about projects, spacetime or masala chai Or just say hi. My Inbox is open for all.",
-  email_address: "akashp1712@gmail.com"
+  email_address: "contact@akashpanchal.com"
 };
 
 const booksSection = {
