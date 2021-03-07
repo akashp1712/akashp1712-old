@@ -14,8 +14,8 @@
 - 🌱 I love to know and learn more about **Large scale system design, Applied Machine Learning, Natural Language Processing**.
 - 👯 I’m looking to collaborate with other content creators, open source contirbuters and avid learners.
 - 🥅 2021 Goals: Contribute more to open source projects And make tools and article avaialble for free to use.
-- 💬 Ask me about Time Travel, Python and Tea!
-- 📫 How to reach me: [Connect with me on Linkedin][linkedin]
+- 💬 Ask me about Software Engineering, NLP and TimeTravel: **contact@akashpanchal.com**
+- 📫 How about LinkedIn? [Connect with me on Linkedin][linkedin]
 - 😄 Pronouns: [*Freshly Squeezed*][OrangeCasidy]
 - ⚡ Fun fact: I was born in december but people add an entire year in my age!!!
 
