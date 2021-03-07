@@ -60,6 +60,3 @@
 [linkedin]: https://linkedin.com/in/akash-panchal-2222749a/
 [medium]: https://medium.com/@akashp1712
 [OrangeCasidy]: https://twitter.com/orangecassidy
-
-Self Note: Run prettier before pushing to git
->prettier -c "./**/*.{js,css,json}"
