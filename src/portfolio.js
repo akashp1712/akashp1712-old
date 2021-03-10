@@ -42,7 +42,7 @@ const skillsSection = {
     emoji("⚡ Develop and Integrate Mobile SDKs for Android Apps"),
     emoji("⚡ Experiment Applied Machine Learning and NLP problems"),
     emoji(
-      "⚡ Learn to design Large scale System for Distributed Clouud Computing"
+      "⚡ Learn to design Large scale System for Distributed Cloud Computing"
     ),
     emoji("⚡ Bootstrapping ideas using web technologies"),
     emoji("⚡ Writing Articles on Medium for knowledge sharing")
