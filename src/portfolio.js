@@ -64,10 +64,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "android",
       fontAwesomeClassname: "fab fa-android"
     },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
+//     {
+//       skillName: "docker",
+//       fontAwesomeClassname: "fab fa-docker"
+//     },
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
@@ -83,10 +83,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
-    },
-    {
-      skillName: "Linux",
-      fontAwesomeClassname: "fab fa-linux"
     },
     {
       skillName: "Ubuntu",
