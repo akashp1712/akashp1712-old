@@ -57,6 +57,6 @@
 [website]: https://akashpanchal.com
 [pythonizr]: https://pythonizr.com
 [twitter]: https://twitter.com/akashp1712
-[linkedin]: https://linkedin.com/in/akash-panchal-2222749a/
+[linkedin]: https://linkedin.com/in/akashp1712
 [medium]: https://medium.com/@akashp1712
 [OrangeCasidy]: https://twitter.com/orangecassidy
