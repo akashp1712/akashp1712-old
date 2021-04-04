@@ -280,6 +280,18 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "Algo Expert",
+      subtitle: "For completing 100 questions on AlgoExpert.io",
+      image: require("./assets/images/algoexpert-certi.jpg"),
+      footerLink: [
+        {
+          name: "Certification",
+          url:
+            "https://certificate.algoexpert.io/AE-e123445f84"
+        }
+      ]
+    },
+    {
       title: "System Expert",
       subtitle: "For passing the systems design assessment on AlgoExpert.io",
       image: require("./assets/images/systemexpert-certi.png"),
@@ -287,7 +299,7 @@ const achievementSection = {
         {
           name: "Certification",
           url:
-            "https://certificate.algoexpert.io/SystemsExpert%20Certificate%20SE-3a9c5d6287"
+            "https://certificate.algoexpert.io/SE-3a9c5d6287"
         }
       ]
     }
