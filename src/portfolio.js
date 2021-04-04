@@ -64,10 +64,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "android",
       fontAwesomeClassname: "fab fa-android"
     },
-//     {
-//       skillName: "docker",
-//       fontAwesomeClassname: "fab fa-docker"
-//     },
+    //     {
+    //       skillName: "docker",
+    //       fontAwesomeClassname: "fab fa-docker"
+    //     },
     {
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
@@ -286,8 +286,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url:
-            "https://certificate.algoexpert.io/AE-e123445f84"
+          url: "https://certificate.algoexpert.io/AE-e123445f84"
         }
       ]
     },
@@ -298,8 +297,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url:
-            "https://certificate.algoexpert.io/SE-3a9c5d6287"
+          url: "https://certificate.algoexpert.io/SE-3a9c5d6287"
         }
       ]
     }
