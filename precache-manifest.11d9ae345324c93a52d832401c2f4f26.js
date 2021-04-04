@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f4e98bb0c882b4b366c99ce71a4cd51",
+    "revision": "3b831f76fac89830705e9fde933cd4ec",
     "url": "./index.html"
   },
   {
-    "revision": "827deb29215bad8643f7",
+    "revision": "d548045501a8c777313f",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "c4a5981cb971d98f7b71",
+    "revision": "cd69bac623aa726cec38",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "c4092288d7a55cf1a8d5",
+    "revision": "96f3ec4de61edeb00ead",
     "url": "./static/css/main.5702606b.chunk.css"
   },
   {
-    "revision": "d7bc4f39ca1b59825ab6",
-    "url": "./static/js/2.fd49a206.chunk.js"
+    "revision": "e4f5758e3d0447607805",
+    "url": "./static/js/2.1af08c9b.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.fd49a206.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.1af08c9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "827deb29215bad8643f7",
-    "url": "./static/js/3.257f7178.chunk.js"
+    "revision": "d548045501a8c777313f",
+    "url": "./static/js/3.13070a98.chunk.js"
   },
   {
-    "revision": "c4a5981cb971d98f7b71",
-    "url": "./static/js/4.2fa00fbe.chunk.js"
+    "revision": "cd69bac623aa726cec38",
+    "url": "./static/js/4.a291ac99.chunk.js"
   },
   {
-    "revision": "c4092288d7a55cf1a8d5",
-    "url": "./static/js/main.92a64d99.chunk.js"
+    "revision": "96f3ec4de61edeb00ead",
+    "url": "./static/js/main.fa19b3cc.chunk.js"
   },
   {
-    "revision": "82b535860978b2488fc3",
-    "url": "./static/js/runtime-main.88f65941.js"
+    "revision": "a4992f28ccfd4d8fcd2c",
+    "url": "./static/js/runtime-main.e07f9aa3.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "7147d9211c6dfaf33efb32ec033e59a7",
+    "url": "./static/media/algoexpert-certi.7147d921.jpg"
   },
   {
     "revision": "bdc7510487c9d8bc2bed50fc9ebed1ce",
