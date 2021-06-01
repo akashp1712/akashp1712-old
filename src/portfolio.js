@@ -12,7 +12,7 @@ const greeting = {
   username: "Akash Panchal",
   title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
-    "A passionate Software Engineer with experience of building Web and Mobile applications with Java / Python / JavaScript and some other cool projects for Machine Learning and NLP."
+    "A passionate Software Engineer with experience of building Microservices based applications with Python, JavaScript and some other cool projects for Mobile, Machine Learning and NLP."
   ),
   resumeLink:
     "https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf",
