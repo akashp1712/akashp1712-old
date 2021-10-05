@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🔭 I’m currently learning about different databases and backend engineering mainly in python.
+- 🔭 I’m currently learning about **nosql databases** and **backend engineering** mainly in python.
 - 🌱 I love to know and learn more about **Large scale system design, Web development, Applied Machine Learning and Natural Language Processing**.
 - 👯 I’m looking to collaborate with other content creators, open source contirbuters and avid learners.
 - 🥅 2021 Goals: Contribute more to open source projects And make tools and article avaialble for free to use.
