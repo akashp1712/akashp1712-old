@@ -169,7 +169,7 @@ const workExperiences = {
       role: "SDE II - Secure Home Platform Partner Team",
       company: "McAfee",
       companylogo: require("./assets/images/mcafee-logo.png"),
-      date: "Jab 2019 – Present",
+      date: "Jab 2019 – Sep 2021",
       desc:
         "Software Engineer in Cloud and Android for the Secure Home Platform for the customer.",
       descBullets: [
