@@ -444,6 +444,17 @@ const storeSection = {
           url: "https://teeshopper.in/products/gary-vee-word-cloud2"
         }
       ]
+    },
+    {
+      title: "Pineapple de Canvas",
+      subtitle: "The real art paited using few stroke of brush",
+      image: require("./assets/images/pineapple-tee.png"),
+      footerLink: [
+        {
+          name: "Shop Now!",
+          url: "https://teeshopper.in/products/pineapple-de-canvas"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
