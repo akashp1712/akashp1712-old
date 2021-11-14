@@ -23,7 +23,7 @@ function Header() {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewBooks = booksSection.display;
-  const viewStore = storeSection.display
+  const viewStore = storeSection.display;
   const viewTalks = talkSection.display;
 
   return (

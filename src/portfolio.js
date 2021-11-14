@@ -430,7 +430,8 @@ const booksSection = {
 
 const storeSection = {
   title: emoji("Shop my Creations!"),
-  subtitle: "I love to creating geeky arts and some funky stuff. Shop some of em...",
+  subtitle:
+    "I love to creating geeky arts and some funky stuff. Shop some of em...",
 
   achievementsCards: [
     {
