@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc560f41148b7db0d675596b5a98716e",
+    "revision": "f34a3acf6534934fb78a3a4385cc2f3a",
     "url": "./index.html"
   },
   {
-    "revision": "d548045501a8c777313f",
+    "revision": "53c00b1f4347927b5596",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "cd69bac623aa726cec38",
+    "revision": "9ad09eda5a661429a192",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "6e07d4624c66f2a194fe",
-    "url": "./static/css/main.5702606b.chunk.css"
+    "revision": "c6614df820a52c289534",
+    "url": "./static/css/main.51b298ab.chunk.css"
   },
   {
-    "revision": "e4f5758e3d0447607805",
-    "url": "./static/js/2.1af08c9b.chunk.js"
+    "revision": "9e3e20b739fb237b87e9",
+    "url": "./static/js/2.47d05bd1.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.1af08c9b.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.47d05bd1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d548045501a8c777313f",
-    "url": "./static/js/3.13070a98.chunk.js"
+    "revision": "53c00b1f4347927b5596",
+    "url": "./static/js/3.fb5eb09e.chunk.js"
   },
   {
-    "revision": "cd69bac623aa726cec38",
-    "url": "./static/js/4.a291ac99.chunk.js"
+    "revision": "9ad09eda5a661429a192",
+    "url": "./static/js/4.96bd4ce2.chunk.js"
   },
   {
-    "revision": "6e07d4624c66f2a194fe",
-    "url": "./static/js/main.79d3d4a9.chunk.js"
+    "revision": "c6614df820a52c289534",
+    "url": "./static/js/main.4c9a4132.chunk.js"
   },
   {
-    "revision": "a4992f28ccfd4d8fcd2c",
-    "url": "./static/js/runtime-main.e07f9aa3.js"
+    "revision": "37c1ad094219560b32b5",
+    "url": "./static/js/runtime-main.06c3bbe6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1eb070b85a7f9198289205fea1e98bd9",
     "url": "./static/media/elon-musk.1eb070b8.png"
+  },
+  {
+    "revision": "76a1d5b82d6be397dde28607cb77dccf",
+    "url": "./static/media/garyvee-wc-tee.76a1d5b8.png"
   },
   {
     "revision": "dea65318b80f4d76cf754379aa7507ee",
