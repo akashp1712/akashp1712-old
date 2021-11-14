@@ -16,7 +16,7 @@
 - 🥅 2021 Goals: Contribute more to open source projects And make tools and article avaialble for free to use.
 - 💬 Ask me about Software Engineering, NLP and TimeTravel: **contact@akashpanchal.com**
 - 📫 How about LinkedIn? [Connect with me on Linkedin][linkedin]
-- ⚡ Fun fact: I was born in december but people add an entire year in my age!!!
+- ⚡ And What about some [Geeky shirts][teeshirt-store]? 
 
 
 ### Languages and Tools
@@ -57,3 +57,4 @@
 [twitter]: https://twitter.com/akashp1712
 [linkedin]: https://linkedin.com/in/akashp1712
 [medium]: https://medium.com/@akashp1712
+[teeshirt-store]: https://teeshopper.in/store/AkashPanchal
