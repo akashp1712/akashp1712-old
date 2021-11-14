@@ -8,6 +8,7 @@ import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
 import Achievement from "./achievement/Achievement";
 import Books from "./books/Books";
+import Store from "./store/Store";
 import Blogs from "./blogs/Blogs";
 import Footer from "../components/footer/Footer";
 import Talks from "./talks/Talks";
@@ -60,6 +61,7 @@ export default class Main extends Component {
           <Blogs />
           <Talks />
           <Books />
+          <Store />
           <Twitter />
           <Podcast />
           <Profile />

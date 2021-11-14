@@ -115,6 +115,19 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.storeFront ? (
+        <a
+          href={socialMediaLinks.storeFront}
+          className="icon-button stack-overflow"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fas fa-store"></i>
+          <span></span>
+        </a>
+      ) : null}
+
     </div>
   );
 }

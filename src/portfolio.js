@@ -28,6 +28,7 @@ const socialMediaLinks = {
   medium: "https://medium.com/@akashp1712",
   // Instagram and Twitter are also supported in the links!
   twitter: "https://twitter.com/akashp1712",
+  storeFront: "https://teeshopper.in/store/AkashPanchal",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -427,6 +428,26 @@ const booksSection = {
   display: true // Set false to hide this section, defaults to true
 };
 
+const storeSection = {
+  title: emoji("Shop my Creations!"),
+  subtitle: "I love to creating geeky arts and some funky stuff. Shop some of em...",
+
+  achievementsCards: [
+    {
+      title: "Gary Vee Word clouds",
+      subtitle: "For all the Amazing entrepreneurs out there",
+      image: require("./assets/images/garyvee-wc-tee.png"),
+      footerLink: [
+        {
+          name: "Shop Now!",
+          url: "https://teeshopper.in/products/gary-vee-word-cloud2"
+        }
+      ]
+    }
+  ],
+  display: true // Set false to hide this section, defaults to true
+};
+
 // Twitter Section
 const twitterDetails = {
   userName: "akashp1712", //Replace "twitter" with your twitter username without @
@@ -449,6 +470,7 @@ export {
   talkSection,
   podcastSection,
   booksSection,
+  storeSection,
   twitterDetails,
   contactInfo
 };
