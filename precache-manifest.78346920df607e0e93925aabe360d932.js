@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f34a3acf6534934fb78a3a4385cc2f3a",
+    "revision": "1d4ccc34d2e63bbe9f70fffba51f3f99",
     "url": "./index.html"
   },
   {
-    "revision": "53c00b1f4347927b5596",
+    "revision": "7ed8e148289f13e92332",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "9ad09eda5a661429a192",
+    "revision": "ed42d2ad3665665dd5ec",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "c6614df820a52c289534",
+    "revision": "4f7d81bc5ecdb7899648",
     "url": "./static/css/main.51b298ab.chunk.css"
   },
   {
-    "revision": "9e3e20b739fb237b87e9",
-    "url": "./static/js/2.47d05bd1.chunk.js"
+    "revision": "99b7076ab6371869296e",
+    "url": "./static/js/2.8d9a5528.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.47d05bd1.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.8d9a5528.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53c00b1f4347927b5596",
-    "url": "./static/js/3.fb5eb09e.chunk.js"
+    "revision": "7ed8e148289f13e92332",
+    "url": "./static/js/3.3e682a91.chunk.js"
   },
   {
-    "revision": "9ad09eda5a661429a192",
-    "url": "./static/js/4.96bd4ce2.chunk.js"
+    "revision": "ed42d2ad3665665dd5ec",
+    "url": "./static/js/4.c0cf02eb.chunk.js"
   },
   {
-    "revision": "c6614df820a52c289534",
-    "url": "./static/js/main.4c9a4132.chunk.js"
+    "revision": "4f7d81bc5ecdb7899648",
+    "url": "./static/js/main.0c391858.chunk.js"
   },
   {
-    "revision": "37c1ad094219560b32b5",
-    "url": "./static/js/runtime-main.06c3bbe6.js"
+    "revision": "6e20f531b6b384d329e6",
+    "url": "./static/js/runtime-main.1da7c310.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "451cc7cd61a8a4f277c3531c401ce22c",
     "url": "./static/media/nirma-university-logo.451cc7cd.png"
+  },
+  {
+    "revision": "20fa6627ccb25a35d56a0f7fa2650296",
+    "url": "./static/media/pineapple-tee.20fa6627.png"
   },
   {
     "revision": "a572671e84d6f07dd4175f7d73d6d98e",
