@@ -447,7 +447,7 @@ const storeSection = {
     },
     {
       title: "Pineapple de Canvas",
-      subtitle: "The real art paited using few stroke of brush",
+      subtitle: "The real art, painted using just a few strokes of brush",
       image: require("./assets/images/pineapple-tee.png"),
       footerLink: [
         {
