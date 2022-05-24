@@ -78,10 +78,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
     },
@@ -142,19 +138,15 @@ const techStack = {
       progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
+      Stack: "Frontend/Javascript",
+      progressPercentage: "65%"
+    },
+    {
       Stack: "Android",
       progressPercentage: "65%"
     },
     {
-      Stack: "Machine Learning",
-      progressPercentage: "40%"
-    },
-    {
       Stack: "Natural Language Processing",
-      progressPercentage: "35%"
-    },
-    {
-      Stack: "Frontend/Javascript",
       progressPercentage: "35%"
     }
   ],
