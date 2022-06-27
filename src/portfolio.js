@@ -37,9 +37,9 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "I like to explore Cloud Tech Stack, Machine Learning and Python developemnt libraries and tools.",
+    "I like to explore Web FullStack, NLP libraries and tools.",
   skills: [
-    emoji("⚡ Develop highly scalable cloud application"),
+    emoji("⚡ Develop highly scalable cloud applications"),
     emoji("⚡ Develop and Integrate Mobile SDKs for Android Apps"),
     emoji("⚡ Experiment Applied Machine Learning and NLP problems"),
     emoji(
@@ -69,10 +69,10 @@ https://fontawesome.com/icons?d=gallery */
     //       skillName: "docker",
     //       fontAwesomeClassname: "fab fa-docker"
     //     },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+    //    {
+    //      skillName: "aws",
+    //      fontAwesomeClassname: "fab fa-aws"
+    //    },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
