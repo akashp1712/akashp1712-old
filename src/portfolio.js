@@ -417,7 +417,7 @@ const booksSection = {
       image: require("./assets/images/elon-musk.png")
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const storeSection = {
