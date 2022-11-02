@@ -24,7 +24,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/akashp1712",
   linkedin: "https://www.linkedin.com/in/akashp1712/",
-  gmail: "contact@akashpanchal.com",
+  gmail: "akashp1712@gmail.com",
   medium: "https://medium.com/@akashp1712",
   // Instagram and Twitter are also supported in the links!
   twitter: "https://twitter.com/akashp1712",
@@ -381,7 +381,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss about projects, spacetime or masala chai Or just say hi. My Inbox is open for all.",
-  email_address: "contact@akashpanchal.com"
+  email_address: "akashp1712@gmail.com"
 };
 
 const booksSection = {
@@ -449,7 +449,7 @@ const storeSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Twitter Section
