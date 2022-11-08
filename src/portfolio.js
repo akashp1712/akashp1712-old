@@ -12,7 +12,7 @@ const greeting = {
   username: "Akash Panchal",
   title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
-    "A passionate Software Engineer with the love of problem solving using Programming language. I belive God must be a programmer.),
+    "A passionate Software Engineer with the love of problem solving using Programming language. I belive God must be a programmer."),
   resumeLink:
     "https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf",
   displayGreeting: true // Set false to hide this section, defaults to true
