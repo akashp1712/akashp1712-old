@@ -12,8 +12,7 @@ const greeting = {
   username: "Akash Panchal",
   title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
-    "A passionate Software Engineer with experience of building Microservices based applications with Python, JavaScript and some other cool projects for Mobile, Machine Learning and NLP."
-  ),
+    "A passionate Software Engineer with the love of problem solving using Programming language. I belive God must be a programmer.),
   resumeLink:
     "https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf",
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -37,15 +36,15 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What I do",
   subTitle:
-    "I like to explore Web FullStack, NLP libraries and tools.",
+    "I'm having experieince of distriubted Web services, Android SDK and Natural Language Processing.",
   skills: [
     emoji("⚡ Develop highly scalable cloud applications"),
     emoji("⚡ Develop and Integrate Mobile SDKs for Android Apps"),
-    emoji("⚡ Experiment Applied Machine Learning and NLP problems"),
+    emoji("⚡ Experiment Applied Machine Learning and NLP problems (GPT3!"),
     emoji(
-      "⚡ Learn to design Large scale System for Distributed Cloud Computing"
+      "⚡ Learn to design Large scale System for Distributed Cloud Computing (AWS!)"
     ),
-    emoji("⚡ Bootstrapping ideas using web technologies"),
+    emoji("⚡ Bootstrapping ideas using web technologies(NextJS!"),
     emoji("⚡ Writing Articles on Medium for knowledge sharing")
   ],
 
@@ -54,25 +53,25 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "java",
+      skillName: "Java",
       fontAwesomeClassname: "fab fa-java"
     },
     {
-      skillName: "android",
+      skillName: "Android",
       fontAwesomeClassname: "fab fa-android"
     },
-    //     {
-    //       skillName: "docker",
-    //       fontAwesomeClassname: "fab fa-docker"
-    //     },
-    //    {
-    //      skillName: "aws",
-    //      fontAwesomeClassname: "fab fa-aws"
-    //    },
+    {
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+   {
+     skillName: "AWS",
+     fontAwesomeClassname: "fab fa-aws"
+   },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -80,14 +79,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
-    },
-    {
-      skillName: "Ubuntu",
-      fontAwesomeClassname: "fab fa-ubuntu"
-    },
-    {
-      skillName: "WordPress",
-      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
       skillName: "Medium",
@@ -127,7 +118,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Problem Solving",
