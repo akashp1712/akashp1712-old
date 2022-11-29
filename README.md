@@ -34,7 +34,7 @@
 <br />
 
 ### Side Projects
-- [Bootstrapping] Abstractive text summarization tool - LessenText](https://yep.so/stats/lessentextai)
+- [Bootstrapping] [Abstractive text summarization tool - LessenText](https://yep.so/stats/lessentextai)
 - [OpenSource] [Pythonizr - A mcahine learning boilerplate generator](https://pythonizr.com)
 - [OpenSource] [Extractive Text Summarization](https://github.com/akashp1712/streamlit-text-summarization) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/akashp1712/streamlit-text-summarization/main/app.py)
 - [OpenSource] [Python Cheat Sheets](https://github.com/akashp1712/awesome-python-cheatsheets)
