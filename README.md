@@ -1,7 +1,9 @@
 ## Hello world, My name is Akash Panchal
 ### Software Engineer, Blogger, Reader and an all time Learner!
 
-## Website: https://akashpanchal.com
+## Website: [akashpanchal.com](https://akashpanchal.com)
+## Bootstrapping new project at [lessentext.com](https://yep.so/stats/lessentextai)
+
 <p align="center">
   <kbd>
 <img src="https://github.com/akashp1712/developerFolio/raw/master/website-scroll.gif" width="960"></img>
@@ -15,7 +17,6 @@
 - 👯 I’m looking to collaborate with other content creators, open source contirbuters and avid learners.
 - 💬 Ask me about Software Engineering, NLP and TimeTravel: **contact@akashpanchal.com**
 - 📫 How about LinkedIn? [Connect with me on Linkedin][linkedin]
-- ⚡ And What about some [Geeky shirts][teeshirt-store]? 
 
 
 ### Languages and Tools
@@ -33,11 +34,12 @@
 <br />
 
 ### Side Projects
-- [Pythonizr - A mcahine learning boilerplate generator](https://pythonizr.com)
-- [Extractive Text Summarization](https://github.com/akashp1712/streamlit-text-summarization) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/akashp1712/streamlit-text-summarization/main/app.py)
-- [Python Cheat Sheets](https://github.com/akashp1712/awesome-python-cheatsheets)
-- [Summarize the webpage from the URL](https://github.com/akashp1712/summarize-webpage)
-- [Awesome Python Tricks](https://akashp1712.github.io/awesome-python-tricks/)
+- [Bootstrapping] Abstractive text summarization tool - LessenText](https://yep.so/stats/lessentextai)
+- [OpenSource] [Pythonizr - A mcahine learning boilerplate generator](https://pythonizr.com)
+- [OpenSource] [Extractive Text Summarization](https://github.com/akashp1712/streamlit-text-summarization) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/akashp1712/streamlit-text-summarization/main/app.py)
+- [OpenSource] [Python Cheat Sheets](https://github.com/akashp1712/awesome-python-cheatsheets)
+- [OpenSource] [Summarize the webpage from the URL](https://github.com/akashp1712/summarize-webpage)
+- [OpenSource] [Awesome Python Tricks](https://akashp1712.github.io/awesome-python-tricks/)
 
 ---
 ### <summary>GitHub Activity</summary>
@@ -52,6 +54,5 @@
 [website]: https://akashpanchal.com
 [pythonizr]: https://pythonizr.com
 [twitter]: https://twitter.com/akashp1712
-[linkedin]: https://linkedin.com/in/akashp1712
+[linkedin]: https://linkedin.com/in/akashpanchal
 [medium]: https://medium.com/@akashp1712
-[teeshirt-store]: https://teeshopper.in/store/AkashPanchal
