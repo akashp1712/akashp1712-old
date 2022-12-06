@@ -150,6 +150,20 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "SDE II - Appstore for Windows (WSA),
+      company: "Amazon",
+      companylogo: require("./assets/images/amazon-logo.png"),
+      date: "Oct 2021 - Current",
+      desc:
+        "Software Engineer in Appstore team for Windows, enabling developers to reach windows users for their Apps.",
+      descBullets: [
+        "Design and implemented window manipulation for Automatic testing of Android Apps on Windows, around 200K apps will be tested using the same.",
+        "Improved UX for promotion portal on App store retail page and Developer portal",
+        "Optimised the queries and data retrieval time for App details by 50%",
+        "Mentored an intern and contributed in project planning in Agile"
+      ]
+    },
+    {
       role: "SDE II - Secure Home Platform Partner Team",
       company: "McAfee",
       companylogo: require("./assets/images/mcafee-logo.png"),
