@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab142fa914bcbcdec82e857b78ee3920",
+    "revision": "a5db593f65c1d8b996011e3ddc9b1e8f",
     "url": "./index.html"
   },
   {
-    "revision": "7ed8e148289f13e92332",
+    "revision": "7cd994bfe02cc889fe75",
     "url": "./static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "ed42d2ad3665665dd5ec",
+    "revision": "3dfff01c330d0f740859",
     "url": "./static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "39107ad8efb3660bf61f",
+    "revision": "5195c4aadfee17a87eea",
     "url": "./static/css/main.51b298ab.chunk.css"
   },
   {
-    "revision": "99b7076ab6371869296e",
-    "url": "./static/js/2.8d9a5528.chunk.js"
+    "revision": "0046dffe147cf3a7c73b",
+    "url": "./static/js/2.db7dfa2a.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "./static/js/2.8d9a5528.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.db7dfa2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ed8e148289f13e92332",
-    "url": "./static/js/3.3e682a91.chunk.js"
+    "revision": "7cd994bfe02cc889fe75",
+    "url": "./static/js/3.d3e1973f.chunk.js"
   },
   {
-    "revision": "ed42d2ad3665665dd5ec",
-    "url": "./static/js/4.c0cf02eb.chunk.js"
+    "revision": "3dfff01c330d0f740859",
+    "url": "./static/js/4.ef914bcf.chunk.js"
   },
   {
-    "revision": "39107ad8efb3660bf61f",
-    "url": "./static/js/main.e68f78a0.chunk.js"
+    "revision": "5195c4aadfee17a87eea",
+    "url": "./static/js/main.5e5c0850.chunk.js"
   },
   {
-    "revision": "6e20f531b6b384d329e6",
-    "url": "./static/js/runtime-main.1da7c310.js"
+    "revision": "11bcdb25b4814f2779d8",
+    "url": "./static/js/runtime-main.4759d55b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7147d9211c6dfaf33efb32ec033e59a7",
     "url": "./static/media/algoexpert-certi.7147d921.jpg"
+  },
+  {
+    "revision": "745a1af9d9ffb0bc79eb2c794e8e1ad0",
+    "url": "./static/media/amazon-logo.745a1af9.png"
   },
   {
     "revision": "bdc7510487c9d8bc2bed50fc9ebed1ce",
