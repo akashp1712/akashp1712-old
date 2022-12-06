@@ -150,7 +150,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "SDE II - Appstore for Windows (WSA),
+      role: "SDE II - Appstore for Windows (WSA)",
       company: "Amazon",
       companylogo: require("./assets/images/amazon-logo.png"),
       date: "Oct 2021 - Current",
