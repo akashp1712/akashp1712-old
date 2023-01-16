@@ -27,7 +27,7 @@ const socialMediaLinks = {
   medium: "https://medium.com/@akashp1712",
   // Instagram and Twitter are also supported in the links!
   twitter: "https://twitter.com/akashp1712",
-  storeFront: "https://teeshopper.in/store/AkashPanchal",
+  storeFront: "https://printedbrush.com",
   display: true // Set true to display this section, defaults to false
 };
 
