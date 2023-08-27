@@ -12,7 +12,7 @@ const greeting = {
   username: "Akash Panchal",
   title: "Hello World, I'm Akash Panchal",
   subTitle: emoji(
-    "A passionate Software Engineer with the love of problem solving using Programming language. I belive God must be a programmer."),
+    "A passionate Software Engineer with the love of problem solving using <code />."),
   resumeLink:
     "https://github.com/akashp1712/developerFolio/blob/master/Akash-Panchal-Resume.pdf",
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -40,7 +40,7 @@ const skillsSection = {
   skills: [
     emoji("⚡ Develop highly scalable cloud applications"),
     emoji("⚡ Develop and Integrate Mobile SDKs for Android Apps"),
-    emoji("⚡ Experiment Applied Machine Learning and NLP problems (GPT3!"),
+    emoji("⚡ Experiment Applied Machine Learning and NLP problems"),
     emoji(
       "⚡ Learn to design Large scale System for Distributed Cloud Computing (AWS!)"
     ),
@@ -138,7 +138,7 @@ const techStack = {
     },
     {
       Stack: "Natural Language Processing",
-      progressPercentage: "35%"
+      progressPercentage: "45%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -150,13 +150,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "SDE II - Appstore for Windows (WSA)",
+      role: "SDE II - Amazon Appstore",
       company: "Amazon",
       companylogo: require("./assets/images/amazon-logo.png"),
       date: "Oct 2021 - Current",
       desc:
         "Software Engineer in Appstore team for Windows, enabling developers to reach windows users for their Apps.",
       descBullets: [
+        "Contributed in the design and Development of AutoFailure framework that is failure case agnostic to automate developer communication for App testing failures, helped increasing ZTP by ~6.5%",
+        "Successfully reduced False Negatives of static testing by up to 12%, significantly minimizing the manual efforts required for validating apps.",
         "Design and implemented window manipulation for Automatic testing of Android Apps on Windows, around 200K apps will be tested using the same.",
         "Improved UX for promotion portal on App store retail page and Developer portal",
         "Optimised the queries and data retrieval time for App details by 50%",
@@ -218,10 +220,23 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Side Projects",
+  title: "Projects",
   subtitle:
     "Projects which allowed me to be creative and explore-learn technologies outside my confirt zone. So Proud of them.",
   projects: [
+    {
+      image: require("./assets/images/lessentext-landing.jpeg"),
+      projectName: "LessneText",
+      projectDesc:
+        "TextSummarization micro-saas",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://lessentext.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
       image: require("./assets/images/pythonizr-scroll.gif"),
       projectName: "Pythonizr",
